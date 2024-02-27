@@ -1,4 +1,4 @@
-# W3Schools, Getting Started
+# W3Schools, NumPy Getting Started
 import numpy as np
 
 print(np.__version__)
