@@ -1,4 +1,4 @@
-# W3Schools, NumPy Unfunc Logs
+# W3Schools, NumPy Ufunc Logs
 from math import log
 import numpy as np
 

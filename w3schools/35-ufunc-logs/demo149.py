@@ -1,4 +1,4 @@
-# W3Schools, NumPy Unfunc Logs
+# W3Schools, NumPy Ufunc Logs
 import numpy as np
 
 arr = np.arange(1, 10)
