@@ -25,11 +25,3 @@ Pandas es una librería de Python especializada en la manipulación y el anális
 
 > [!CAUTION]
 > Nota especial para GitHub + Markdown.
-
-<style>
-    @media (prefers-color-scheme: dark) {
-        img[src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"] {
-            content: url("https://pandas.pydata.org/static/img/pandas_white.svg");
-        }
-}
-</style>
