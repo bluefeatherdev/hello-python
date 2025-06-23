@@ -1,11 +1,9 @@
-/ChatGPT
-/Documentación
-/Guías
-/numpy
-/pandas
+# For old directories
 /pruebas-old
 /cuc-old
 /SQL
+
+# For Data Handling Tutorial
 /data.csv
 
 # For Python MySQL Tutorial
@@ -18,6 +16,3 @@ mongodb_credentials.py
 
 # For Python MCM
 /pruebas/mcm/mcm_pruebas.py
-
-# For projecteuler.net
-/project-euler/
