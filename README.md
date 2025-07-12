@@ -1,8 +1,11 @@
 # Hello, Python!
 
-![Language: Python](https://img.shields.io/badge/language-Python-blue?logo=python&logoColor=white) 
-![NumPy](https://img.shields.io/badge/library-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/library-Pandas-150458?logo=pandas&logoColor=white) ![Turtle](https://img.shields.io/badge/library-Turtle-green) ![Tkinter](https://img.shields.io/badge/library-Tkinter-blueviolet)
-
+![Static Badge](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Library-NumPy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Library-Tkinter-blue?style=for-the-badge&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Library-Turtle-teal?style=for-the-badge&logo=Python&logoColor=white)
+ 
 Este repositorio es mi espacio de estudio personal para **practicar Python a fondo**, con ejemplos, ejercicios del curso de W3Schools 2024 y proyectos académicos.
 
 ## Estructura del repositorio
