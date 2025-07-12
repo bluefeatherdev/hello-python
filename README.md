@@ -1,10 +1,10 @@
 # Hello, Python!
 
-![Static Badge](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/Library-NumPy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Library-Tkinter-blue?style=for-the-badge&logo=Python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Library-Turtle-teal?style=for-the-badge&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010) 
+![Static Badge](https://img.shields.io/badge/Library-NumPy-013243?style=for-the-badge&logo=Numpy&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Library-Tkinter-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Library-Turtle-teal?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)
  
 Este repositorio es mi espacio de estudio personal para **practicar Python a fondo**, con ejemplos, ejercicios del curso de W3Schools 2024 y proyectos académicos.
 
