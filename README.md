@@ -9,7 +9,7 @@
 Este repositorio es mi espacio de estudio personal para **practicar Python a fondo**, con ejemplos, ejercicios del curso de W3Schools 2024 y proyectos académicos.
 
 ## 🗂️ Estructura del repositorio
-- `cuc/`: Código y proyectos realizados en la Corporación Universidad de la Costa (Ingeniería de Sistemas)
+- `cuc/`: Código y proyectos realizados en la Corporación Universidad de la Costa
 - `w3schools/`: Scripts del curso oficial W3Schools Python 2024. Sintaxis y estructuras esenciales (variables, condicionales, bucles, funciones) 
 - `numpy/`, `pandas/`: Operaciones y análisis de datos
 - `tkinter/`: Ejemplos de interfaces gráficas con GUI nativo
