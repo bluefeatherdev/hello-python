@@ -10,7 +10,7 @@ Este repositorio es mi espacio de estudio personal para **practicar Python a fon
 
 ## 🗂️ Estructura del repositorio
 - `cuc/`: Código y proyectos realizados en la Corporación Universidad de la Costa
-- `w3schools/`: Scripts del curso oficial W3Schools Python 2024. Sintaxis y estructuras esenciales (variables, condicionales, bucles, funciones) 
+- `w3schools/`: Scripts del curso oficial W3Schools Python 2024. Sintaxis y estructuras esenciales
 - `numpy/`, `pandas/`: Operaciones y análisis de datos
 - `tkinter/`: Ejemplos de interfaces gráficas con GUI nativo
 - `turtle/`: Ejercicios gráficos y educativos con Turtle
