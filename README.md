@@ -9,6 +9,13 @@
  
 Este repositorio es mi espacio de estudio personal para **practicar Python a fondo**, con ejemplos, ejercicios del curso de W3Schools 2024 y proyectos académicos.
 
+## 🔎 ¿Qué encontrarás aquí?
+
+- **Aprendizaje estructurado**: folder organizado por tema y librería
+
+- **Pruebas personales**: experimentos propios y notas sobre comportamiento de código
+- **Retos y prácticas**: ejercicios del curso W3Schools y otros desafíos opcionales
+
 ## 🗂️ Estructura del repositorio
 - `cuc/`: Código y proyectos realizados en la Corporación Universidad de la Costa
 
@@ -17,12 +24,6 @@ Este repositorio es mi espacio de estudio personal para **practicar Python a fon
 - `tkinter/`: Ejemplos de interfaces gráficas con GUI nativo
 - `turtle/`: Ejercicios gráficos y educativos con Turtle
 
-## 🔎 ¿Qué encontrarás aquí?
-
-- **Aprendizaje estructurado**: folder organizado por tema y librería
-
-- **Pruebas personales**: experimentos propios y notas sobre comportamiento de código
-- **Retos y prácticas**: ejercicios del curso W3Schools y otros desafíos opcionales
 
 ## 🎯 Objetivos del repositorio
 
