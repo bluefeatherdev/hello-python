@@ -27,7 +27,4 @@ Este repositorio es mi espacio de estudio personal para **practicar Python a fon
 - Aprender a usar librerías populares como `tkinter`, `turtle`, `numpy` y `pandas`
 - Documentar progresos y descubrimientos de forma ordenada
 
-> [!IMPORTANT]
-> Python ha sido el lenguaje de programación base en mi Universidad; y, aunque en el presente estoy enfocado en el *Desarrollo Móvil* con otras tecnologías, decidí organizar este repositorio.
-
 > Hello World! '\u{2665}'
