@@ -6,6 +6,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Library-Tkinter-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/Library-Turtle-teal?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)
+
+![](./images/header.png)
  
 Este repositorio es mi espacio de estudio personal para **practicar Python a fondo**, con ejemplos, ejercicios del curso de W3Schools 2024 y proyectos académicos.
 
