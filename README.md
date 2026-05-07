@@ -7,9 +7,9 @@ This repository is my personal space to learn and practice Python from scratch, 
 
 ![header_hello_python](https://github.com/user-attachments/assets/08ec93e4-4a63-47b5-8cd1-36bc652511a4)
 
-## Repository Content
+## 🗂️ Repository Content
 
-### Structured Learning
+### → Structured Learning
 
 - Basic syntax and structures (e.g. `variables/`, `data-types/`, `functions/`)
 
@@ -18,7 +18,7 @@ This repository is my personal space to learn and practice Python from scratch, 
 - More advanced concepts and uses (e.g. `machine-learning/`, `matplotlib/`)
 - Folder: [`w3schools/`](./w3schools/)
 
-### Playground 
+### → Playground 
 
 - Own experiments with the language
 
@@ -26,7 +26,7 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Automation of everyday tasks
 - Folder: [`playground/`](./playground/)
 
-### University Learning
+### → University Learning
 
 - Fundamentals of algorithms and programming logic
 
@@ -34,14 +34,14 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Support material for classmates
 - Folder: [`universidad-de-la-costa/`](./universidad-de-la-costa/)
 
-### Code Challenges 
+### → Code Challenges 
 
 - Solutions to exercises and challenges proposed by the Spanish-speaking community (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 
 - Translated statements (if necessary) and personal explanations
 - Folder: [`programming-challenges/`](./programming-challenges/)
 
-### Popular Libraries
+### → Popular Libraries
 
 - Data operations and analysis ([`numpy/`](./numpy/), [`pandas/`](./pandas/))
 
@@ -49,15 +49,17 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Graphics and animations ([`turtle/`](./turtle/))
 
 
-## Repository Goals
+## 🎯 Repository Goals
 
 - Document progress and knowledge in an organized way
 
 - Learn to use popular libraries such as [`tkinter`](./tkinter/), [`turtle`](./turtle/), [`numpy`](./numpy/), and [`pandas`](./pandas/)
 - Maintain a useful repository as a personal reference guide
 
-## License
+## ⚖️ License
 
-This repository is licensed under the terms of the [Apache License 2.0](LICENSE)
+This repository is licensed under the terms of the [Apache License 2.0](LICENSE). The license grants permission to use, modify, and distribute the code with proper attribution, while ensuring that improvements and extensions remain open and accessible to the community.
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)
+##
+
+> Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
